@@ -31,3 +31,10 @@ https://www.lego.com/en-us/mindstorms/learn-to-program
 乐高
 
 
+### 积木整理汇总 
+https://www.cnblogs.com/zjutlitao/p/4784578.html
+
+### Sifteo Cubes
+https://post.smzdm.com/p/552443/
+
+
